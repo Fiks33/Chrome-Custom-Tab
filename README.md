@@ -14,5 +14,7 @@ Requirement :
 ![Screenshot](https://github.com/Fiks33/Chrome-Custom-Tab/blob/master/screenshot/1-new.png)  ![Screenshot](https://github.com/Fiks33/Chrome-Custom-Tab/blob/master/screenshot/2-new.png)
 
              
-For more information read official document
+             
+             
+For more information
 [read official document](https://developer.chrome.com/multidevice/android/customtabs)
