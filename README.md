@@ -1,7 +1,7 @@
 # Chrome-Custom-Tab
 Chrome Custom Tab is similar to webview but Chrome Custom tab we can customize our toolbar.
 
-Requirement :
+# Requirement
 - Chrome version 45 or higher installed on device. If not Installed app will use webview.
 - API 16 (Jelly Bean) an above. Not tested below Jelly Bean.
 - Add libary minimum version 23.3.0 for this sample I'm used version 24.2.1. Example : 
